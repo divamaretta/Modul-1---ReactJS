@@ -69,3 +69,56 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+# Berikut adalah hasil pengerjaan saya 
+
+berikut adalah codingan pertama 
+
+![Alt Text](https://github.com/divamaretta/Modul-1---ReactJS/blob/main/coding%201.png)
+
+dan ini adalah outputnya 
+
+![Alt Text](https://github.com/divamaretta/Modul-1---ReactJS/blob/main/hasil%201.png)
+
+selanjutnya kita modiikasi app.js lagi , berikut codingannya 
+ 
+![Alt Text](https://github.com/divamaretta/Modul-1---ReactJS/blob/main/coding%202.png)
+
+dan ini adalah outputnya 
+
+![Alt Text](https://github.com/divamaretta/Modul-1---ReactJS/blob/main/hasil%202.png)
+
+dan kalian bisa memodifikasinya bmenjadi seperti ini
+
+![Alt Text](https://github.com/divamaretta/Modul-1---ReactJS/blob/main/modifikasi%20hasil%202.png)
+
+berikut kita sudah memasuki codingan ke 3 , nh disini kita buat alert js terlebih dahulu
+
+![Alt Text](https://github.com/divamaretta/Modul-1---ReactJS/blob/main/coding%20alert.png)
+
+dan berikut adalah codingan-3 
+
+![Alt Text](https://github.com/divamaretta/Modul-1---ReactJS/blob/main/codingan%203.png))
+
+dan ini hasilnya 
+
+![Alt Text](https://github.com/divamaretta/Modul-1---ReactJS/blob/main/hasil%203.png)
+
+lanjut ke codingan ke 4 kita mengubah juga alertnya kembali
+
+![Alt Text](https://github.com/divamaretta/Modul-1---ReactJS/blob/main/coding%20modifikasi%20alert%204.png)
+
+berikut codingan ke 4
+
+![Alt Text](https://github.com/divamaretta/Modul-1---ReactJS/blob/main/coding%204.png)
+
+dan ini adalah hasil codingan ke 4
+
+![Alt Text](https://github.com/divamaretta/Modul-1---ReactJS/blob/main/hasil%204.png)
+
+yang terakhir ini adalah codingan ke 5
+
+![Alt Text](https://github.com/divamaretta/Modul-1---ReactJS/blob/main/coding%205.png)
+
+berikut adalah hasil codingan 5 
+
+![Alt Text](https://github.com/divamaretta/Modul-1---ReactJS/blob/main/hasil%205.png)

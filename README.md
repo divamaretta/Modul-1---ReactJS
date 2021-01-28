@@ -69,4 +69,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-#Berikut adalah hasil dari pengerjaan saya
+# Berikut adalah hasil dari pengerjaan saya
+
+
+
+Berikut adalah codingannya 
+![Alt Text](https://github.com/divamaretta/Modul-1---ReactJS/blob/main/coding%201.png)
+
+Ini adalah hasilnya Output Load Bootstrap pada React JS
+![Alt Text](https://github.com/divamaretta/Modul-1---ReactJS/blob/main/hasil%201.png)
+

@@ -68,59 +68,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-# Berikut adalah hasil dari pengerjaan saya
-
-
-
-Berikut adalah codingan yang pertama 
-
-![Alt Text](https://github.com/divamaretta/Modul-1---ReactJS/blob/main/coding%201.png)
-
-Ini adalah hasilnya Output Load Bootstrap pada React JS
-
-![Alt Text](https://github.com/divamaretta/Modul-1---ReactJS/blob/main/hasil%201.png)
-
-Berikut adalah codingan yang kedua
-
-![Alt Text](https://github.com/divamaretta/Modul-1---ReactJS/blob/main/coding%202.png)
-
-Berikut adalah outputnya
-
-![Alt Text](https://github.com/divamaretta/Modul-1---ReactJS/blob/main/hasil%202.png)
-
-Anda juga bisa memodofikasnya sesuai apa yang anda suka karena ini adalah belajar , berikut adalah outputnya
-
-![Alt Text](https://github.com/divamaretta/Modul-1---ReactJS/blob/main/modifikasi%20hasil%202.png)
-
-Selanjutnya kita membuat Alert.JS seperti berikut
-
-![Alt Text](https://github.com/divamaretta/Modul-1---ReactJS/blob/main/coding%20alert.png)
-
-Selanjutnya modifikasi App.js, berikut adalah codingan ketiga 
-
-![Alt Text](https://github.com/divamaretta/Modul-1---ReactJS/blob/main/codingan%203.png)
-
-Dan ini adalah hasil outputnya 
-
-![Alt Text](https://github.com/divamaretta/Modul-1---ReactJS/blob/main/hasil%203.png)
-
-Kembali ke Alert kita modifikasi sedikit
-
-![Alt Text](https://github.com/divamaretta/Modul-1---ReactJS/blob/main/coding%20modifikasi%20alert%204.png)
-
-lalu kita ke App.js lagi dan memodifikasinya jadi seperti ini, berikut adalah codingan 4
-
-![Alt Text](https://github.com/divamaretta/Modul-1---ReactJS/blob/main/coding%204.png)
-
-Berikut adalah outputnya 
-
-![Alt Text](https://github.com/divamaretta/Modul-1---ReactJS/blob/main/hasil%204.png)
-
-berikut adalah codingan ke-5 
-
-![Alt Text](https://github.com/divamaretta/Modul-1---ReactJS/blob/main/coding%205.png)
-
-dan ini adalah hasilnya
-
-![Alt Text](https://github.com/divamaretta/Modul-1---ReactJS/blob/main/hasil%205.png)
+# ReactJS-Modul-1
+# ReactJS-Modul-1
+# ReactJS-Modul1
+# React.JS-Modul-1
+# ReactJS-Modul 1

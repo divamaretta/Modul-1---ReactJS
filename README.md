@@ -116,3 +116,11 @@ lalu kita ke App.js lagi dan memodifikasinya jadi seperti ini, berikut adalah co
 Berikut adalah outputnya 
 
 ![Alt Text](https://github.com/divamaretta/Modul-1---ReactJS/blob/main/hasil%204.png)
+
+berikut adalah codingan ke-5 
+
+![Alt Text](https://github.com/divamaretta/Modul-1---ReactJS/blob/main/coding%205.png)
+
+dan ini adalah hasilnya
+
+![Alt Text](https://github.com/divamaretta/Modul-1---ReactJS/blob/main/hasil%205.png)

@@ -87,10 +87,6 @@ dan ini adalah outputnya
 
 ![Alt Text](https://github.com/divamaretta/Modul-1---ReactJS/blob/main/hasil%202.png)
 
-dan kalian bisa memodifikasinya bmenjadi seperti ini
-
-![Alt Text](https://github.com/divamaretta/Modul-1---ReactJS/blob/main/modifikasi%20hasil%202.png)
-
 berikut kita sudah memasuki codingan ke 3 , nh disini kita buat alert js terlebih dahulu
 
 ![Alt Text](https://github.com/divamaretta/Modul-1---ReactJS/blob/main/coding%20alert.png)
